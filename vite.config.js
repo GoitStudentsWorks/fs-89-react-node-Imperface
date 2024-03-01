@@ -15,5 +15,5 @@ export default defineConfig({
       customHooks: '/src/customHooks',
     },
   },
-  base: '/drinkon-frontend/',
+  base: '/fs-89-react-node-Imperface/',
 });
