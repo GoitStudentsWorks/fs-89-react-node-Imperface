@@ -1,0 +1,1 @@
+const s="/fs-89-react-node-Imperface/assets/start-desc@2x-1b660c93.jpg",t="/fs-89-react-node-Imperface/assets/start-tabl@2x-baeefd91.jpg",a="/fs-89-react-node-Imperface/assets/start-mob@2x-166b0082.jpg";export{t as a,s as b,a as s};
