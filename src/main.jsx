@@ -43,7 +43,7 @@ export const theme = {
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/drinkon-frontend/">
+    <BrowserRouter basename="/fs-89-react-node-Imperface/">
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <ThemeProvider theme={theme}>
